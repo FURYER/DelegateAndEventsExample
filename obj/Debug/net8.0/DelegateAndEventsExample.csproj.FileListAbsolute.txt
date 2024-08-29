@@ -1,0 +1,14 @@
+C:\Users\chugaev\source\repos\DelegateAndEventsExample\DelegateAndEventsExample\bin\Debug\net8.0\DelegateAndEventsExample.exe
+C:\Users\chugaev\source\repos\DelegateAndEventsExample\DelegateAndEventsExample\bin\Debug\net8.0\DelegateAndEventsExample.deps.json
+C:\Users\chugaev\source\repos\DelegateAndEventsExample\DelegateAndEventsExample\bin\Debug\net8.0\DelegateAndEventsExample.runtimeconfig.json
+C:\Users\chugaev\source\repos\DelegateAndEventsExample\DelegateAndEventsExample\bin\Debug\net8.0\DelegateAndEventsExample.dll
+C:\Users\chugaev\source\repos\DelegateAndEventsExample\DelegateAndEventsExample\bin\Debug\net8.0\DelegateAndEventsExample.pdb
+C:\Users\chugaev\source\repos\DelegateAndEventsExample\DelegateAndEventsExample\obj\Debug\net8.0\DelegateAndEventsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chugaev\source\repos\DelegateAndEventsExample\DelegateAndEventsExample\obj\Debug\net8.0\DelegateAndEventsExample.AssemblyInfoInputs.cache
+C:\Users\chugaev\source\repos\DelegateAndEventsExample\DelegateAndEventsExample\obj\Debug\net8.0\DelegateAndEventsExample.AssemblyInfo.cs
+C:\Users\chugaev\source\repos\DelegateAndEventsExample\DelegateAndEventsExample\obj\Debug\net8.0\DelegateAndEventsExample.csproj.CoreCompileInputs.cache
+C:\Users\chugaev\source\repos\DelegateAndEventsExample\DelegateAndEventsExample\obj\Debug\net8.0\DelegateAndEventsExample.dll
+C:\Users\chugaev\source\repos\DelegateAndEventsExample\DelegateAndEventsExample\obj\Debug\net8.0\refint\DelegateAndEventsExample.dll
+C:\Users\chugaev\source\repos\DelegateAndEventsExample\DelegateAndEventsExample\obj\Debug\net8.0\DelegateAndEventsExample.pdb
+C:\Users\chugaev\source\repos\DelegateAndEventsExample\DelegateAndEventsExample\obj\Debug\net8.0\DelegateAndEventsExample.genruntimeconfig.cache
+C:\Users\chugaev\source\repos\DelegateAndEventsExample\DelegateAndEventsExample\obj\Debug\net8.0\ref\DelegateAndEventsExample.dll
